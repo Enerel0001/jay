@@ -48,12 +48,13 @@ body {
   border-radius: 5px;
 }
 #page-2 {
-  background: url(e0e6665e2b2d1e2dbb61c4354668c93a.jfif) no-repeat center
-    center/cover;
+  background: url(entrance-Gate-of-Divine-Might-Beijing-Forbidden.webp)
+    no-repeat center center/cover;
 }
 
 #page-3 {
-  background: url(huangguoshu-waterfall-512-1.jpg) no-repeat center center/cover;
+  background: url(best-places-to-visit-in-china-zhangye-danxia-1216x800.jpg)
+    no-repeat center center/cover;
 }
 
 #page-4 {
@@ -63,6 +64,7 @@ body {
 #page-5 {
   background: url(p172_d20160429144638.gif) no-repeat center center/cover;
 }
-.h1 {
- text color: black;
+#page-6 {
+  background: url(Flag_of_the_People\'s_Republic_of_China.svg.png) no-repeat
+    center center/cover;
 }
